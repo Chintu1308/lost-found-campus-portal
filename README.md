@@ -79,6 +79,9 @@ http://localhost:3000
 ---
 
 ## 🖼️ Screenshots
+![Landing page](https://github.com/user-attachments/assets/49d88d3c-d25b-4f49-93f7-7e0b25b6dd28)
+![SignUp page](https://github.com/user-attachments/assets/8711ef5b-12af-4bf5-bbbc-41eaaf4620dd)
+![Dashboard](https://github.com/user-attachments/assets/b5764d77-ace4-4cb5-b012-7aeea2998e2e)
 
 
 ---
@@ -86,7 +89,7 @@ http://localhost:3000
 ## 🚀 Live Demo
 
 **Access the hosted project here:**  
-🔗 [Live App Link](https://your-deployment-link.com)
+🔗 [Live App Link](https://lost-found-sooty.vercel.app/)
 
 ---
 
@@ -98,8 +101,10 @@ http://localhost:3000
 
 ## 🎥 Demo Video
 
-📽️ [YouTube (Unlisted)](https://youtube.com)  
+📽️ [YouTube (Unlisted)](https://youtu.be/gVOdU6n6vWA)  
 *Includes problem explanation, use case, key features, and walkthrough.*
+https://github.com/user-attachments/assets/efaab6e4-d1e6-4af9-8c64-08977fea547b
+
 
 ---
 
