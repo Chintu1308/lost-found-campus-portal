@@ -63,7 +63,7 @@ EMAIL_API_KEY=your_email_api_key
 npm start
 
 # 6. Visit the app at
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
